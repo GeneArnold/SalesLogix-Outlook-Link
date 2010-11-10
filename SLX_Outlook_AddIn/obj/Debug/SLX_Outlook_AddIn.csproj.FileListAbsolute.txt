@@ -1,0 +1,36 @@
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\SLX_Outlook_AddIn.dll
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\SLX_Outlook_AddIn.pdb
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\SLX_Outlook_AddIn.dll.manifest
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\SLX_Outlook_AddIn.vsto
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.Properties.Resources.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\ResGen.read.1.tlog
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\ResGen.write.1.tlog
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.dll
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX Import Tool\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.pdb
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\SLX_Outlook_AddIn.dll.config
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\SLX_Outlook_AddIn.dll
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\SLX_Outlook_AddIn.pdb
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\SLX_Outlook_AddIn.dll.manifest
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\SLX_Outlook_AddIn.vsto
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\Interop.Redemption.dll
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\Interop.Redemption.dll
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.csproj.ResolveComReference.cache
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.ContactFound.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.CreateAccountContact.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.CreateActivity.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.CreateOpportunity.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.CreateTicket.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\CustomTaskPane.SLX_UserControl.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.Opportunities.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.Properties.Resources.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.Settings.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\ResGen.read.1.tlog
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\ResGen.write.1.tlog
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.dll
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.pdb
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.CreateLead.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\obj\Debug\SLX_Outlook_AddIn.OpportunityDetails.resources
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\WebChart.dll
+C:\Users\garnold\Documents\My Dropbox\VS 2010 Projects\SLX_Outlook_AddIn\SLX_Outlook_AddIn\bin\Debug\orders.JPG
